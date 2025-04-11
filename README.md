@@ -1,2 +1,2 @@
 # random-walk
-Small random walk programs
+Small random walk program
